@@ -1,7 +1,7 @@
 ---
-title: "Valkey releases notes"
-linkTitle: "Releases notes"
-description: Releases notes for Valkey
+title: "Valkey release notes"
+linkTitle: "Release notes"
+description: Release notes for Valkey
 ---
 
 ## Upgrade urgency levels
